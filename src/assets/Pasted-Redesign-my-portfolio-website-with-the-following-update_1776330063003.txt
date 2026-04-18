@@ -1,0 +1,85 @@
+Redesign my portfolio website with the following updates:
+
+🔗 Projects Section (Must Fetch from GitHub)
+
+Use these repositories as featured projects:
+
+https://github.com/akash-chinthala/User-Activity-and-Risk-Analysis
+https://github.com/akash-chinthala/Revenue-Leakage-Analysis
+https://github.com/akash-chinthala/Inventory-Supply-Risk-Intelligence
+
+Each project must include:
+
+Clear business-focused title
+Simple, impact-driven description (avoid technical overload)
+GitHub link button
+Clean modern card UI
+❌ Remove Completely
+Remove entire “My Journey” section
+Remove all skill percentages (e.g., SQL 80%, Python 90%)
+Remove hero section stats like:
+“10+ projects completed”
+“5+ tools mastered”
+Remove Python floating card from hero section
+Remove long intro paragraph:
+
+“I am an aspiring data analyst with a focus on transforming complex, unstructured datasets into clear, decision-ready intelligence... (entire paragraph must be removed)”
+
+🧠 Replace Hero Section Content With
+
+Use this new hero statement:
+
+I build "always-on" analytics workflows that transform complex data into clear, decision-ready intelligence. With expertise in SQL, Python, and BI tools, I help organizations bridge the gap between raw data and strategic action—identifying risks and revenue opportunities before they escalate.
+
+🎯 Hero Visual / Floating Skills Cards
+
+Add floating skill cards in hero section for:
+
+SQL
+Python
+Power BI
+Excel
+
+Keep design minimal, modern, and balanced (not cluttered).
+
+🧩 Skills & Capabilities Section (Redesign)
+Rename:
+“Data Engineering” ➝ Data Analyst
+Keep structured layout (NOT side-by-side skills)
+Data Analyst (Main Section)
+
+Include:
+
+SQL
+Python Basics
+Data Handling
+Data Cleaning
+Python Libraries
+Statistics (Sub-section under Data Analyst)
+
+Include:
+
+Outliers
+Hypothesis Testing
+Correlation
+Mean, Median, Mode
+Visualization & Reporting
+
+Include:
+
+Power BI
+Interactive dashboards
+Drill-through reports
+(Remove “DAX measures” completely)
+❌ Remove Entire Section:
+Analytics & Insights (delete fully)
+🎨 Design Requirements
+Clean, modern, dashboard-inspired UI
+Data analyst / BI role focused theme
+Minimal clutter
+Strong emphasis on insights, risk, revenue intelligence
+Dark professional aesthetic preferred
+🔗 Contact Section (Add This)
+Let's Connect:
+LinkedIn: https://www.linkedin.com/in/akash-reddy-ch-045878283/
+Email: akashreddych4@gmail.com
